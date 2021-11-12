@@ -16,7 +16,7 @@ import Erreur from './pages/Erreur';
 function App() { 
   return (
     <>
-      <Router >
+      <Router basename={process.env.PUBLIC_URL} >
           <Switch>
               <AppRoutes exact path="/" component={Dashboard} layout={AdminLayout}  />
               <AppRoutes path="/utilisateurs" component={Utilisateurs} layout={AdminLayout}  />
