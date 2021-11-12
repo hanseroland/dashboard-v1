@@ -1,0 +1,53 @@
+[{
+        "id": "1",
+        "reference": "Ref 1",
+        "nom": "Produit 1",
+        "categorie": "cat 1",
+        "prix_achat": "10000",
+        "prix_vente": "15000",
+        "quantite": "400",
+        "date_ajout": "01 02 2021"
+    },
+    {
+        "id": "2",
+        "reference": "Ref 2",
+        "nom": "Produit 2",
+        "categorie": "cat 2",
+        "prix_achat": "12000",
+        "prix_vente": "14000",
+        "quantite": "300",
+        "date_ajout": "01 02 2021"
+    },
+    {
+        "id": "3",
+        "reference": "Ref 3",
+        "nom": "Produit 3",
+        "categorie": "cat 3",
+        "prix_achat": "15000",
+        "prix_vente": "20000",
+        "quantite": "250",
+        "date_ajout": "11 02 2021"
+    },
+    {
+        "id": "4",
+        "reference": "Ref 4",
+        "nom": "Produit 4",
+        "categorie": "cat 4",
+        "prix_achat": "20000",
+        "prix_vente": "22000",
+        "quantite": "350",
+        "date_ajout": "06 02 2021"
+    },
+    {
+        "id": "5",
+        "reference": "Ref 5",
+        "nom": "Produit 5",
+        "categorie": "cat 5",
+        "prix_achat": "2000",
+        "prix_vente": "4000",
+        "quantite": "200",
+        "date_ajout": "07 07 2021"
+    }
+
+
+]

@@ -1,0 +1,34 @@
+[{
+        "id": "1",
+        "titre": "Lorem 1",
+        "categorie": "aide",
+        "contenu": "**Lorem ipsum dolor sit**, amet consectetur adipisicing elit. \n\n Fugit labore ratione quaerat deserunt dolore possimus eaque aliquam nisi! Aut corporis hic et pariatur cupiditate at nisi eveniet saepe, voluptatibus architecto."
+    },
+    {
+        "id": "2",
+        "titre": "Lorem 2",
+        "categorie": "mentions-legale",
+        "contenu": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. **Fugit labore ratione quaerat deserunt** dolore possimus eaque aliquam nisi! Aut corporis hic et pariatur cupiditate at nisi eveniet saepe, voluptatibus architecto."
+    },
+    {
+        "id": "3",
+        "titre": "Lorem 3",
+        "categorie": "conditions-utilisation",
+        "contenu": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit labore ratione quaerat deserunt dolore possimus eaque aliquam nisi! Aut corporis hic et pariatur cupiditate at nisi eveniet saepe, voluptatibus architecto."
+    },
+    {
+        "id": "4",
+        "titre": "Lorem 4",
+        "categorie": "donnees-personnelles",
+        "contenu": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit labore ratione quaerat deserunt dolore possimus eaque aliquam nisi! Aut corporis hic et pariatur cupiditate at nisi eveniet saepe, voluptatibus architecto."
+    },
+    {
+        "id": "5",
+        "titre": "Lorem 5",
+        "categorie": "cookies",
+        "contenu": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit labore ratione quaerat deserunt dolore possimus eaque aliquam nisi! Aut corporis hic et pariatur cupiditate at nisi eveniet saepe, voluptatibus architecto."
+
+    }
+
+
+]

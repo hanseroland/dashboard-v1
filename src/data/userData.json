@@ -1,0 +1,43 @@
+[{
+        "id_utilisateur": "1",
+        "nom": "Roland",
+        "prenom": "parfait.pierre",
+        "email": "rol@gmail.com",
+        "role": "administrateur",
+        "date_ajout": "01/01/21"
+    },
+    {
+        "id_utilisateur": "2",
+        "nom": "Chancia",
+        "prenom": "alex.andra",
+        "email": "alex@gmail.com",
+        "role": "administrateur",
+        "date_ajout": "04/01/21"
+    },
+    {
+        "id_utilisateur": "3",
+        "nom": "pierre",
+        "prenom": "pierre.roland",
+        "email": "pierre@gmail.com",
+        "role": "moderateur",
+        "date_ajout": "03/03/21"
+    },
+    {
+        "id_utilisateur": "4",
+        "nom": "Mode",
+        "prenom": "mode.Jobs",
+        "email": "modejobs@gmail.com",
+        "role": "moderateur",
+        "date_ajout": "03/01/21"
+    },
+    {
+        "id_utilisateur": "5",
+        "nom": "fabrice",
+        "prenom": "fabrice.fab",
+        "email": "fabjobs@gmail.com",
+        "role": "contrôleur",
+        "date_ajout": "01/02/21"
+    }
+
+
+]
