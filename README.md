@@ -6,11 +6,11 @@
 
 ### banière
 
-# ![accueil](https://github.com/hanseroland/dashboard-v1/blob/main/src/captures/home.png)
+#![acc](https://github.com/hanseroland/dashboard-v1/blob/main/captures/home.png)
 
 ### Gestion des utilisateur
 
-# ![users](https://github.com/hanseroland/dashboard-v1/blob/main/src/captures/user.png)
+# ![users](https://github.com/hanseroland/dashboard-v1/blob/main/captures/user.png)
 
 
 
