@@ -7,7 +7,7 @@ export const  SidebarContainer = styled.aside`
     z-index: 999;
     width: 70%;
     height:100%;
-    background:#008647;
+    background:${({ theme }) => theme.third}; 
     display: grid;
     align-items:center;
     top:0;
@@ -61,7 +61,7 @@ export const SidebarLink = styled(Link)`
     cursor:pointer;
 
     &:hover {
-        color: #fbf000;
+        color: #fbf000; 
         transition: 0.2s ease-in-out;
     }
 `

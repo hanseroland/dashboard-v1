@@ -18,7 +18,7 @@ function Dashboard() {
     const toggle = () => {
         setIsOpen(!isOpen)
     }
-    return (
+    return ( 
         <MainContainer>
             <MobileSidebar  isOpen={isOpen}  toggle={toggle}/>
             <Topnav  toggle={toggle} />

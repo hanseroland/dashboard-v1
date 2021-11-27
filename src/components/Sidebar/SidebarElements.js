@@ -6,7 +6,7 @@ export const Container = styled.div`
     position: fixed;
     left: 0;
     top: 0;
-    bottom: 0;
+    bottom: 0; 
     width: 17rem;
     display: flex;
     flex-direction: column;

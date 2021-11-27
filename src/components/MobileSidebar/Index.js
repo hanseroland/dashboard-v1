@@ -10,7 +10,8 @@ import {
     ContainerLink
 } from './MobileElements'
 import{AiFillHome,AiOutlineUser} from 'react-icons/ai'
-import { Build, Dashboard, Home, Message, Person, PostAdd, VolumeUp} from '@material-ui/icons'
+import { Build, Dashboard, Home, Message, Person, Policy, PostAdd, VolumeUp} from '@material-ui/icons'
+import { FaBox } from 'react-icons/fa';
 
 
 
@@ -22,24 +23,29 @@ const items = [
     title: 'Tableau de bord'
   },
   {
-    href: '/gestion_utilisateurs',
+    href: '/utilisateurs',
     icon: <Person/>,
     title: 'Utilisateurs'
-  },
+  }, 
   {
-    href: 'gestion_postes',
+    href: '/postes',
     icon:  <PostAdd/>,
     title: 'Postes'
   },
   {
-    href: 'messages',
+    href: '/produits',
+    icon:  <FaBox/>,
+    title: 'Produits'
+  },
+  {
+    href: '/messages',
     icon:  <Message/>,
     title: 'Messages'
   },
   {
-    href: '/reglages',
-    icon:  <Build/>,
-    title: 'Paramètres'
+    href: '/confidentialites',
+    icon:  <Policy/>,
+    title: 'Confidentialités'
   },
   
   {
